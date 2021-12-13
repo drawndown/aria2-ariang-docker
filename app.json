@@ -1,8 +1,8 @@
 {
-  "name": "wahyd4/aria2-ariang-docker demo",
-  "description": "A demo of Aria2 + AriaNg + Filebrowser + Rclone",
-  "repository": "https://github.com/wahyd4/aria2-ariang-docker",
-  "keywords": ["docker", "aria2", "rclone", "fllebrowser", "ariang"],
+  "name": "drawndown/aria2-ariang-docker",
+  "description": "Polaris Manager",
+  "repository": "https://github.com/drawndown/aria2-ariang-docker",
+  "keywords": ["docker", "fllebrowser"],
   "stack": "container",
   "success_url": "/",
   "env": {
